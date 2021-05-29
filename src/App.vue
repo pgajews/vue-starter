@@ -13,6 +13,7 @@
 </template>
 
 <script>
+import "milligram";
 
 export default {
   data() {
@@ -39,5 +40,7 @@ export default {
 </script>
 
 <style>
-
+a:hover {
+  color: blue;
+}
 </style>
